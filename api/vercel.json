@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "api/**": {
+      "runtime": "nodejs18.x",
+      "maxDuration": 30,
+      "regions": ["gru1"]
+    }
+  }
+}
